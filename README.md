@@ -12,4 +12,7 @@ Practice along to get more knowledge on HTML and CSS (and a little of jQuery for
 
 The code is strictly for my learning purposes.
 
-Credit: source.unsplash.com for Background Images
+Credits:
+
+- source.unsplash.com for Background Images API.
+- Alejandro Luengo's unsplash.com photo https://unsplash.com/photos/0A6_DK8hfiI
